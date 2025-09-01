@@ -250,12 +250,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - **Comunidade Java** pelos recursos e documentação
 - **Contribuidores** que ajudaram no desenvolvimento
 
-## 📞 Suporte
-
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/board/issues)
-- **Documentação**: [Wiki do Projeto](https://github.com/seu-usuario/board/wiki)
-- **Email**: seu-email@exemplo.com
-
----
 
 ⭐ **Se este projeto te ajudou, considere dar uma estrela!**
